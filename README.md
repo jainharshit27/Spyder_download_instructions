@@ -1,4 +1,4 @@
-Software Installation Steps
+## Software Installation Steps
 
 __File 1__: Anaconda & Prerequisite Download Instructions (recommended)<br>
 __File 2__: Spyder IDE Download Instructions
